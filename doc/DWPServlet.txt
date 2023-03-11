@@ -1,0 +1,6 @@
+
+Eclipse IDE
+Java Dynamic Web Project Servlet MySQL CRUD
+
+src/main/java/com.prog.dao/DBUtil.java
+-Need to set database url, db user and pass
